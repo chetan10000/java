@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+<companyname>mtechinfotech</companyname>
+<Type>IT</Type>
+<establish>1965</establish>
+<department Name="developer">
+<employee id="1">
+<name>chetan</name>
+<surname>parmar</surname>
+
+</employee>
+<employee id="2">
+<name>steven</name>
+<surname>rutherford</surname>
+
+</employee>
+</department>
+<department Name="management">
+<employee id="44">
+<name>elena</name>
+<surname>maryk</surname>
+
+
+</employee>
+<employee id="46">
+<name>maschej</name>
+<surname>krukowski</surname>
+
+</employee>
+</department>
+<department Name="hr">
+<employee id="12">
+<name>julia</name>
+<surname>steffen</surname>
+
+</employee>
+<employee id="22">
+<name>jakun</name>
+<surname>brozowski</surname>
+</employee>
+</department>
+</company>
+
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+<order id="1">
+<count>33</count>
+</order>
+<order id="2">
+<count>30</count>
+</order>
+<order id="3">
+<count>39</count>
+</order>
+<order id="4">
+<count>38</count>
+</order>
+</orders>
