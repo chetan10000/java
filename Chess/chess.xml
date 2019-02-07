@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sides>
+
+<figures color="white">
+
+<king>
+G1</king>
+
+<rook>
+D6</rook>
+<bishop>
+E2
+</bishop>
+</figures>
+
+
+<figures color="black">
+
+<king>
+G4</king>
+
+<rook>
+H2</rook>
+
+<bishop>
+E6</bishop>
+</figures>
+
+</sides>
