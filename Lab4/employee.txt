@@ -1,0 +1,7 @@
+
+name,dateOfBirth,dept,jobTitle
+John,1962-11-24,accounting,senior accountant
+Tina,1962-09-26,administration,manager
+Karen,1972-01-10, marketing,graphic designer
+Michael,1978-02-11,research,programmer
+Sandra,1976-10-26,marketing,account manager
