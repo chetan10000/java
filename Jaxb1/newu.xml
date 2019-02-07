@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<chess>
+    <bishop>E2</bishop>
+    <figure>red</figure>
+    <king>G1</king>
+    <rook>D6</rook>
+</chess>

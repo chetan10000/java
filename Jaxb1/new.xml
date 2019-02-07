@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+  <xs:element name="chess" type="chess"/>
+
+  <xs:complexType name="chess">
+    <xs:sequence>
+      <xs:element name="bishop" type="xs:string" minOccurs="0"/>
+      <xs:element name="figure" type="xs:string" minOccurs="0"/>
+      <xs:element name="king" type="xs:string" minOccurs="0"/>
+      <xs:element name="rook" type="xs:string" minOccurs="0"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>
+
